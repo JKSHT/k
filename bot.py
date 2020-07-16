@@ -98,4 +98,4 @@ async def embed(ctx, *, a_sMessage):
     await bot.say(embed=embed)
     chalk.green(ctx.message.author.name + " has embedded a message in " + ctx.message.server.name)
 
-bot.run(token)
+bot.run("NzMzMTc1MjQyOTI2ODUwMDU5.Xw_Uwg.yZaf_58CjIb-zSSI0jDzG8JL7fs")
